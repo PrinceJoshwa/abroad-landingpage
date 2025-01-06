@@ -1,0 +1,94 @@
+{
+    "United States": [
+      {
+        "id": "us1",
+        "name": "Harvard University",
+        "location": "Cambridge, MA",
+        "ranking": 1,
+        "image": "https://placehold.co/400x300",
+        "courses": [
+          {
+            "id": "us1c1",
+            "name": "Master of Business Administration",
+            "duration": "2 years",
+            "tuition": "$75,000/year",
+            "area": "Business and Management"
+          },
+          {
+            "id": "us1c2",
+            "name": "Computer Science MS",
+            "duration": "2 years",
+            "tuition": "$65,000/year",
+            "area": "Computer Science and IT"
+          },
+          {
+            "id": "us1c3",
+            "name": "Data Science MS",
+            "duration": "1.5 years",
+            "tuition": "$68,000/year",
+            "area": "Computer Science and IT"
+          },
+          {
+            "id": "us1c4",
+            "name": "Mechanical Engineering MS",
+            "duration": "2 years",
+            "tuition": "$62,000/year",
+            "area": "Engineering"
+          },
+          {
+            "id": "us1c5",
+            "name": "Public Health MPH",
+            "duration": "2 years",
+            "tuition": "$58,000/year",
+            "area": "Medicine"
+          }
+        ]
+      }
+    ],
+    "United Kingdom": [
+      {
+        "id": "uk1",
+        "name": "University of Oxford",
+        "location": "Oxford",
+        "ranking": 2,
+        "image": "https://placehold.co/400x300",
+        "courses": [
+          {
+            "id": "uk1c1",
+            "name": "MSc in Financial Economics",
+            "duration": "1 year",
+            "tuition": "£45,000/year",
+            "area": "Business and Management"
+          },
+          {
+            "id": "uk1c2",
+            "name": "MSc in Computer Science",
+            "duration": "1 year",
+            "tuition": "£40,000/year",
+            "area": "Computer Science and IT"
+          },
+          {
+            "id": "uk1c3",
+            "name": "MSc in Mathematics",
+            "duration": "1 year",
+            "tuition": "£38,000/year",
+            "area": "Mathematics"
+          },
+          {
+            "id": "uk1c4",
+            "name": "MSc in Engineering Science",
+            "duration": "1 year",
+            "tuition": "£42,000/year",
+            "area": "Engineering"
+          },
+          {
+            "id": "uk1c5",
+            "name": "MSc in Medical Sciences",
+            "duration": "1 year",
+            "tuition": "£44,000/year",
+            "area": "Medicine"
+          }
+        ]
+      }
+    ]
+  }
